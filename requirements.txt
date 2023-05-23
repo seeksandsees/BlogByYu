@@ -4,3 +4,4 @@ Werkzeug~=2.3.3
 SQLAlchemy~=2.0.12
 python-dotenv~=1.0.0
 WTForms~=3.0.1
+Bootstrap-Flask~=2.2.0
